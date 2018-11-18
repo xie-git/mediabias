@@ -1,6 +1,7 @@
 # Sentiment Analysis of Bias in Major Media Outlets
 
 Authors: Michael Xie, Dan Kojis
+
 Created: May 2018
 
 ## Introduction
