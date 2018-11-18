@@ -1,5 +1,8 @@
 # Sentiment Analysis of Bias in Major Media Outlets
 
+Authors: Michael Xie, Dan Kojis
+Created: May 2018
+
 ## Introduction
 
 Bias in the media has always been a topic of hot-debate throughout American history but has especially been a point of focus in recent years. Depending on whom you ask, you'll get very different responses about the political leanings of news organizations. Because of the subjective nature of this topic, we wanted to find a way to analyze bias in the media in an objective manner. We decided to do this using sentiment analysis on news article titles and examining which topics news sources were covering, which we'll discuss more thoroughly below. Although our method has its limitations and is far from perfect, it still offers us useful insight into the political biases of five major news outlets.
